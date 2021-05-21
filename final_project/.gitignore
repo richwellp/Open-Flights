@@ -1,0 +1,7 @@
+project
+test
+*.o
+*.d
+.obj
+
+# Generated images
